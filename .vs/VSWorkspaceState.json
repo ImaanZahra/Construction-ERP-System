@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ConstructionERPSystem",
+    "\\ConstructionERPSystem\\Controllers",
+    "\\ConstructionERPSystem\\Models",
+    "\\ConstructionERPSystem\\Views",
+    "\\ConstructionERPSystem\\Views\\Employees",
+    "\\ConstructionERPSystem\\Views\\Users",
+    "\\test",
+    "\\test\\Views"
+  ],
+  "SelectedNode": "\\ConstructionERPSystem\\Views\\Employees\\Details.cshtml",
+  "PreviewInSolutionExplorer": false
+}

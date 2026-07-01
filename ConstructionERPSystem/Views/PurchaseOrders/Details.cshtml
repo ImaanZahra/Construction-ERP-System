@@ -1,0 +1,340 @@
+﻿@model ConstructionERPSystem.Models.PurchaseOrder
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Purchase Order Details - Construction ERP</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+            *, *::before, *::after {
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+            }
+
+            body {
+                font-family: 'Inter', sans-serif;
+                background-color: #F5F5F0;
+                min-height: 100vh;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                padding: 40px 16px;
+            }
+
+            .page-wrap {
+                width: 100%;
+                max-width: 580px;
+            }
+
+            .page-eyebrow {
+                font-size: 11px;
+                font-weight: 600;
+                color: #F5C518;
+                text-transform: uppercase;
+                letter-spacing: 1.2px;
+                margin-bottom: 6px;
+            }
+
+            .page-title {
+                font-size: 26px;
+                font-weight: 700;
+                color: #111111;
+                letter-spacing: -0.5px;
+                margin-bottom: 4px;
+            }
+
+            .page-subtitle {
+                font-size: 14px;
+                color: #888888;
+                margin-bottom: 24px;
+            }
+
+            .card {
+                background: #FFFFFF;
+                border-radius: 16px;
+                box-shadow: 0 8px 40px rgba(0,0,0,0.08);
+                overflow: hidden;
+            }
+
+            .po-avatar-row {
+                background: #111111;
+                padding: 28px 32px;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                gap: 16px;
+            }
+
+            .avatar-block {
+                display: flex;
+                align-items: center;
+                gap: 16px;
+            }
+
+            .avatar {
+                width: 52px;
+                height: 52px;
+                background: #F5C518;
+                border-radius: 12px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 18px;
+                font-weight: 700;
+                color: #111111;
+                flex-shrink: 0;
+            }
+
+            .avatar-name {
+                color: #FFFFFF;
+                font-size: 18px;
+                font-weight: 700;
+                letter-spacing: -0.3px;
+            }
+
+            .avatar-tag {
+                font-size: 12px;
+                color: #888888;
+                margin-top: 2px;
+            }
+
+            /* Procurement Workflow Status Badges */
+            .status-badge {
+                font-size: 12px;
+                font-weight: 700;
+                text-transform: uppercase;
+                letter-spacing: 0.5px;
+                padding: 6px 14px;
+                border-radius: 8px;
+            }
+
+            .status-pending {
+                background: #F5F5F0;
+                color: #666666;
+            }
+
+            .status-approved {
+                background: #FFF8E1;
+                color: #B8860B;
+            }
+
+            .status-delivered {
+                background: #E8F5E9;
+                color: #2E7D32;
+            }
+
+            .status-cancelled {
+                background: #FFF3F3;
+                color: #C62828;
+            }
+
+            .details-body {
+                padding: 28px 32px;
+            }
+
+            .section-divider {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+                margin-bottom: 20px;
+            }
+
+            .section-label {
+                font-size: 11px;
+                font-weight: 600;
+                color: #BBBBBB;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                white-space: nowrap;
+            }
+
+            .section-line {
+                flex: 1;
+                height: 1px;
+                background: #E5E5E0;
+            }
+
+            .detail-row {
+                display: flex;
+                justify-content: space-between;
+                align-items: flex-start;
+                padding: 13px 0;
+                border-bottom: 1px solid #F0F0EC;
+                gap: 16px;
+            }
+
+                .detail-row:last-child {
+                    border-bottom: none;
+                }
+
+            .detail-key {
+                font-size: 13px;
+                font-weight: 500;
+                color: #888888;
+                white-space: nowrap;
+                flex-shrink: 0;
+            }
+
+            .detail-val {
+                font-size: 14px;
+                font-weight: 500;
+                color: #111111;
+                text-align: right;
+            }
+
+            .form-actions {
+                display: flex;
+                gap: 12px;
+                padding: 20px 32px 28px;
+                border-top: 1px solid #E5E5E0;
+            }
+
+            .btn-edit {
+                flex: 1;
+                height: 46px;
+                background: #F5C518;
+                color: #111111;
+                border: none;
+                border-radius: 10px;
+                font-family: 'Inter', sans-serif;
+                font-size: 14px;
+                font-weight: 600;
+                text-decoration: none;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                cursor: pointer;
+                transition: background 0.15s, transform 0.1s;
+            }
+
+                .btn-edit:hover {
+                    background: #e6b800;
+                    color: #111111;
+                }
+
+                .btn-edit:active {
+                    transform: scale(0.99);
+                }
+
+            .btn-back {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                height: 46px;
+                padding: 0 24px;
+                background: #FFFFFF;
+                color: #444444;
+                border: 1.5px solid #E5E5E0;
+                border-radius: 10px;
+                font-family: 'Inter', sans-serif;
+                font-size: 14px;
+                font-weight: 500;
+                text-decoration: none;
+                transition: border-color 0.15s, color 0.15s;
+                white-space: nowrap;
+            }
+
+                .btn-back:hover {
+                    border-color: #111111;
+                    color: #111111;
+                }
+
+            @@media (max-width: 520px) {
+                .po-avatar-row {
+                    flex-direction: column;
+                    align-items: flex-start;
+                    gap: 14px;
+                }
+
+                .po-avatar-row, .details-body, .form-actions {
+                    padding-left: 20px;
+                    padding-right: 20px;
+                }
+
+                .form-actions {
+                    flex-direction: column;
+                }
+            }
+    </style>
+</head>
+<body>
+
+    <div class="page-wrap">
+
+        <p class="page-eyebrow">Procurement</p>
+        <h1 class="page-title">Purchase Order Details</h1>
+        <p class="page-subtitle">Auditing merchant chain logs and fulfillment statuses.</p>
+
+        <div class="card">
+
+            <div class="po-avatar-row">
+                <div class="avatar-block">
+                    <div class="avatar">M-PO</div>
+                    <div>
+                        <div class="avatar-name">@(string.IsNullOrEmpty(Model.VendorName) ? "Supply Order" : Model.VendorName)</div>
+                        <div class="avatar-tag">Order Reference &nbsp;#@Model.PurchaseOrderId</div>
+                    </div>
+                </div>
+
+                @{
+                    string badgeClass = "status-pending";
+                    if (Model.Status == "Approved") badgeClass = "status-approved";
+                    else if (Model.Status == "Delivered") badgeClass = "status-delivered";
+                    else if (Model.Status == "Cancelled") badgeClass = "status-cancelled";
+                }
+                <span class="status-badge @badgeClass">@Model.Status</span>
+            </div>
+
+            <div class="details-body">
+
+                <div class="section-divider">
+                    <span class="section-label">Chain Sourcing</span>
+                    <div class="section-line"></div>
+                </div>
+
+                <div class="detail-row">
+                    <span class="detail-key">Vendor Merchant</span>
+                    <span class="detail-val" style="font-weight: 600;">@(string.IsNullOrEmpty(Model.VendorName) ? "—" : Model.VendorName)</span>
+                </div>
+
+                <div class="detail-row">
+                    <span class="detail-key">Material Resource</span>
+                    <span class="detail-val">@(string.IsNullOrEmpty(Model.MaterialName) ? "—" : Model.MaterialName)</span>
+                </div>
+
+                <div class="detail-row">
+                    <span class="detail-key">Log Date</span>
+                    <span class="detail-val">@(Model.OrderDate.HasValue ? Model.OrderDate.Value.ToString("dd-MMM-yyyy") : "—")</span>
+                </div>
+
+                <div class="section-divider" style="margin-top: 20px;">
+                    <span class="section-label">Inventory Logistics</span>
+                    <div class="section-line"></div>
+                </div>
+
+                <div class="detail-row">
+                    <span class="detail-key">Requested Quantity</span>
+                    <span class="detail-val" style="font-weight: 600;">@Model.Quantity</span>
+                </div>
+
+                <div class="detail-row">
+                    <span class="detail-key">Gross Total Amount</span>
+                    <span class="detail-val" style="font-size: 16px; font-weight: 700; color: #111111;">
+                        @Model.TotalAmount.ToString("N2")
+                    </span>
+                </div>
+
+            </div>
+
+            <div class="form-actions">
+                <a href="/PurchaseOrders" class="btn-back">← Back</a>
+                <a href="/PurchaseOrders/Edit/@Model.PurchaseOrderId" class="btn-edit">Edit Order →</a>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>

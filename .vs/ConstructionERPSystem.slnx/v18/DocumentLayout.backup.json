@@ -1,0 +1,2070 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\dashboard\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\dashboard\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\dashboard\\storemanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\dashboard\\storemanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\dashboard\\siteengineer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\dashboard\\siteengineer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\dashboard\\employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\dashboard\\employee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\dashboard\\worker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\dashboard\\worker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\dashboard\\projectmanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\dashboard\\projectmanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\dashboard\\procurementofficer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\dashboard\\procurementofficer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\dashboard\\hrmanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\dashboard\\hrmanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\dashboard\\contractor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\dashboard\\contractor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\dashboard\\client.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\dashboard\\client.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\dashboard\\accountant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\dashboard\\accountant.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\attendance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\attendance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\attendance\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\attendance\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\attendance\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\attendance\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\attendance\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\attendance\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\invoices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\invoices\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\invoices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\invoices\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\tasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\tasks\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\invoices\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\invoices\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\expenses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\expenses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\expenses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\vendors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\vendors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\vendors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\vendors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\vendors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\vendors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\vendors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\vendors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\sites\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\sites\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\sites\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\sites\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\sites\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\sites\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\sites\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\sites\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\purchaseorders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\purchaseorders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\purchaseorders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\purchaseorders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\purchaseorders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\purchaseorders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\purchaseorders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\purchaseorders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\projects\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\projects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\projects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\projects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\projects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\materials\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\materials\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\materials\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\materials\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\materials\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\materials\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\materials\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\materials\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\invoices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\invoices\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\expenses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\expenses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\expenses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\clients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\clients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\clients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\auth\\unauthorized.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\auth\\unauthorized.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\constructionerpsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\constructionerpsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\services\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\services\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\services\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\repositories\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\constructionerpsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\constructionerpsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\services\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\services\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\repositories\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\repositories\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\models\\reportmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\models\\reportmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\data\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6493CB3-6DFA-4B51-ADCE-030D2EBB55C1}|ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj|solutionrelative:constructionerpsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\controllers\\invoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\controllers\\purchaseorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\controllers\\purchaseorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\controllers\\vendorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\controllers\\vendorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\controllers\\materialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\controllers\\materialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\controllers\\sitescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\controllers\\sitescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\filters\\iroleauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\filters\\iroleauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\models\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\models\\attendancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\models\\attendancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|c:\\users\\imaan\\source\\repos\\constructionerpsystem\\constructionerpsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD03615E-6B82-B087-67F6-1303D0B55836}|ConstructionERPSystem\\ConstructionERPSystem.csproj|solutionrelative:constructionerpsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAUwBkBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T23:56:46.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Program.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T20:38:56.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SiteEngineer.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\SiteEngineer.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Dashboard\\SiteEngineer.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\SiteEngineer.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Dashboard\\SiteEngineer.cshtml",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAawIUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T09:56:41.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T20:05:58.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKUBAAAAAAAAAAAUwK4BAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T21:47:06.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\Admin.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Dashboard\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\Admin.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Dashboard\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4BAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T20:15:35.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T20:32:57.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HRManager.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\HRManager.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Dashboard\\HRManager.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\HRManager.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Dashboard\\HRManager.cshtml",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAUwBIBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T10:27:15.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T10:01:01.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwNwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T20:10:14.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\Employee.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Dashboard\\Employee.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\Employee.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Dashboard\\Employee.cshtml",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAawIUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T20:16:56.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StoreManager.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\StoreManager.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Dashboard\\StoreManager.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\StoreManager.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Dashboard\\StoreManager.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T10:10:36.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Worker.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\Worker.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Dashboard\\Worker.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\Worker.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Dashboard\\Worker.cshtml",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAUwBsBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T10:44:43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectManager.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\ProjectManager.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Dashboard\\ProjectManager.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\ProjectManager.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Dashboard\\ProjectManager.cshtml",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAUwCMBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T20:15:22.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProcurementOfficer.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\ProcurementOfficer.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Dashboard\\ProcurementOfficer.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\ProcurementOfficer.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Dashboard\\ProcurementOfficer.cshtml",
+              "ViewState": "AgIAABABAAAAAAAAAAAUwCUBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T10:20:26.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contractor.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\Contractor.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Dashboard\\Contractor.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\Contractor.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Dashboard\\Contractor.cshtml",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAUwBgBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T10:40:01.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Client.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\Client.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Dashboard\\Client.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\Client.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Dashboard\\Client.cshtml",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAUwBgBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T20:17:15.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Accountant.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\Accountant.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Dashboard\\Accountant.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Dashboard\\Accountant.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Dashboard\\Accountant.cshtml",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAUwBgBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T10:36:29.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Attendance\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Attendance\\Index.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Attendance\\Index.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Attendance\\Index.cshtml",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAawIYBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:19:25.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Attendance\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Attendance\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Attendance\\Edit.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Attendance\\Edit.cshtml",
+              "ViewState": "AgIAADUBAAAAAAAAAAAUwEoBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:19:54.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Tasks\\Details.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Tasks\\Details.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Tasks\\Details.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Tasks\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:05:25.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAgCAAAAAAAAAAAqwB8CAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T23:08:47.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Attendance\\Details.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Attendance\\Details.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Attendance\\Details.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Attendance\\Details.cshtml",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAmwPcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:20:10.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Attendance\\Create.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Attendance\\Create.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Attendance\\Create.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Attendance\\Create.cshtml",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAUwB8BAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:19:40.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Invoices\\Create.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Invoices\\Create.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Invoices\\Create.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Invoices\\Create.cshtml",
+              "ViewState": "AgIAABIBAAAAAAAAAAAUwCcBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T22:33:05.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAABoBAAAAAAAAAAAqwDEBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T20:16:58.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Vendors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Vendors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Vendors\\Edit.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Vendors\\Edit.cshtml",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAqwDUBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:54:22.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Invoices\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Invoices\\Index.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Invoices\\Index.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Invoices\\Index.cshtml",
+              "ViewState": "AgIAAHQBAAAAAAAAAAAawIABAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T22:32:16.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAqwFQBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T23:08:24.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Expenses\\Details.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Expenses\\Details.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Expenses\\Details.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Expenses\\Details.cshtml",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAqwCQBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T22:24:44.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Expenses\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Expenses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Expenses\\Index.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Expenses\\Index.cshtml",
+              "ViewState": "AgIAANQBAAAAAAAAAAAqwOMBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T22:24:00.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Invoices\\Details.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Invoices\\Details.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Invoices\\Details.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Invoices\\Details.cshtml",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAawPIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T22:34:28.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Vendors\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Vendors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Vendors\\Index.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Vendors\\Index.cshtml",
+              "ViewState": "AgIAAIMBAAAAAAAAAAAqwPEBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:53:32.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Vendors\\Details.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Vendors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Vendors\\Details.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Vendors\\Details.cshtml",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAqwB4BAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:54:49.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Vendors\\Create.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Vendors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Vendors\\Create.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Vendors\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:53:57.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Tasks\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Tasks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Tasks\\Index.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Tasks\\Index.cshtml",
+              "ViewState": "AgIAAFQCAAAAAAAAAAAqwGsCAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:04:10.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Tasks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Tasks\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Tasks\\Edit.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Tasks\\Edit.cshtml",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAqwG8BAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:05:10.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Tasks\\Create.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Tasks\\Create.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Tasks\\Create.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Tasks\\Create.cshtml",
+              "ViewState": "AgIAADsBAAAAAAAAAAAqwFIBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:04:52.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Sites\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Sites\\Index.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Sites\\Index.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Sites\\Index.cshtml",
+              "ViewState": "AgIAANIBAAAAAAAAAAAqwOkBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T23:05:10.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Users\\Details.cshtml",
+              "ViewState": "AgIAADQBAAAAAAAAAAAqwEsBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T20:40:24.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Sites\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Sites\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Sites\\Edit.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Sites\\Edit.cshtml",
+              "ViewState": "AgIAABkBAAAAAAAAAAAqwDABAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T23:04:50.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Sites\\Details.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Sites\\Details.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Sites\\Details.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Sites\\Details.cshtml",
+              "ViewState": "AgIAAP0AAAAAAAAAAAAqwBQBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T23:04:29.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Sites\\Create.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Sites\\Create.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Sites\\Create.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Sites\\Create.cshtml",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAqwAkBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T23:04:06.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\PurchaseOrders\\Create.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\PurchaseOrders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\PurchaseOrders\\Create.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\PurchaseOrders\\Create.cshtml",
+              "ViewState": "AgIAABABAAAAAAAAAAAqwCcBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T22:05:33.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Projects\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Projects\\Index.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Projects\\Index.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Projects\\Index.cshtml",
+              "ViewState": "AgIAAAoCAAAAAAAAAAAqwCECAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T23:01:31.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Projects\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Projects\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Projects\\Edit.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Projects\\Edit.cshtml",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAqwGEBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T23:01:04.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Projects\\Details.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Projects\\Details.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Projects\\Details.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Projects\\Details.cshtml",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAqwGsBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T23:00:44.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\PurchaseOrders\\Details.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\PurchaseOrders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\PurchaseOrders\\Details.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\PurchaseOrders\\Details.cshtml",
+              "ViewState": "AgIAADwBAAAAAAAAAAAqwFMBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T22:06:07.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\PurchaseOrders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\PurchaseOrders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\PurchaseOrders\\Edit.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\PurchaseOrders\\Edit.cshtml",
+              "ViewState": "AgIAADQBAAAAAAAAAAAqwEsBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T22:05:49.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\PurchaseOrders\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\PurchaseOrders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\PurchaseOrders\\Index.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\PurchaseOrders\\Index.cshtml",
+              "ViewState": "AgIAAAoCAAAAAAAAAAAqwCECAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T22:03:22.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Projects\\Create.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Projects\\Create.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Projects\\Create.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Projects\\Create.cshtml",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAqwDUBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T23:00:07.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Invoices\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Invoices\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Invoices\\Edit.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Invoices\\Edit.cshtml",
+              "ViewState": "AgIAADkBAAAAAAAAAAAqwFABAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T22:33:58.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Materials\\Create.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Materials\\Create.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Materials\\Create.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Materials\\Create.cshtml",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAqwAMBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:36:06.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Materials\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Materials\\Index.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Materials\\Index.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Materials\\Index.cshtml",
+              "ViewState": "AgIAAPYBAAAAAAAAAAAqwA0CAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:35:49.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Materials\\Details.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Materials\\Details.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Materials\\Details.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Materials\\Details.cshtml",
+              "ViewState": "AgIAADABAAAAAAAAAAAqwEcBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:36:59.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Materials\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Materials\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Materials\\Edit.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Materials\\Edit.cshtml",
+              "ViewState": "AgIAABgBAAAAAAAAAAAqwC8BAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T21:36:21.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T22:56:23.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T22:56:12.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Expenses\\Create.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Expenses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Expenses\\Create.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Expenses\\Create.cshtml",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAqwCUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T22:24:12.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAANwBAAAAAAAAAAAkwPABAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T20:35:58.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Program.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Program.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:51:08.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Clients\\Index.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Clients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Clients\\Index.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Clients\\Index.cshtml",
+              "ViewState": "AgIAAE8BAAAAAAAAAAAUwNwBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T22:27:56.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T22:00:55.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Expenses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Expenses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Expenses\\Edit.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Expenses\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T22:24:26.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAALoAAAAAAAAAAAAawMgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T20:34:46.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:59:58.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T22:00:24.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAABgBAAAAAAAAAAAUwC0BAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T20:37:57.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T20:36:53.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Clients\\Create.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Clients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Clients\\Create.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Clients\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T22:23:30.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Clients\\Details.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Clients\\Details.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Clients\\Details.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Clients\\Details.cshtml",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAUwBgBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T22:25:24.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Clients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Clients\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Clients\\Edit.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Clients\\Edit.cshtml",
+              "ViewState": "AgIAACIBAAAAAAAAAAAUwDcBAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-12T22:26:51.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T22:01:35.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAmwFcBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T20:09:19.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\TaskService.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Services\\TaskService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T22:02:12.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Services\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\ITaskService.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Services\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:59:11.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Unauthorized.cshtml",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Auth\\Unauthorized.cshtml",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Views\\Auth\\Unauthorized.cshtml",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Views\\Auth\\Unauthorized.cshtml",
+              "RelativeToolTip": "ConstructionERPSystem\\Views\\Auth\\Unauthorized.cshtml",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwH8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T11:11:35.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ConstructionERPSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\ConstructionERPSystem.csproj",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\ConstructionERPSystem.csproj",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\ConstructionERPSystem.csproj",
+              "RelativeToolTip": "ConstructionERPSystem\\ConstructionERPSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-12T22:13:22.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Repositories\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\ITaskRepository.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Repositories\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:58:44.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:52:02.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T22:02:54.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Models\\TaskItem.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:58:15.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:57:09.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:56:37.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Models\\Employee.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:56:14.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\ProjectService.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Services\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\ProjectService.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Services\\ProjectService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:49:07.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Repositories\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Repositories\\ProjectRepository.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAqwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:46:47.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\IProjectService.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Services\\IProjectService.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\IProjectService.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Services\\IProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:45:38.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Repositories\\IProjectRepository.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\IProjectRepository.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Repositories\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:45:08.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Models\\Project.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:44:37.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\ClientService.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Services\\ClientService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:34:53.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:38:05.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAqwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:34:11.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\IClientService.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Services\\IClientService.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\IClientService.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Services\\IClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:31:41.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Repositories\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Repositories\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:31:13.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Models\\Client.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T21:30:48.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:49:26.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Models\\User.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Models\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:48:51.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "IReportService.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\IReportService.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Services\\IReportService.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\IReportService.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Services\\IReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T19:05:19.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "ConstructionERPSystem.API.csproj",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj",
+              "RelativeToolTip": "ConstructionERPSystem.API\\ConstructionERPSystem.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-10T18:41:53.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:51:51.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\IUserService.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:50:09.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\UserService.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T17:59:17.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAASwDQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T18:01:36.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Services\\ReportService.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T19:05:50.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "IReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\IReportRepository.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Repositories\\IReportRepository.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Repositories\\IReportRepository.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Repositories\\IReportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T19:03:27.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "ReportModels.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Models\\ReportModels.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Models\\ReportModels.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Models\\ReportModels.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Models\\ReportModels.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:55:37.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Data\\DbHelper.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\Data\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\Data\\DbHelper.cs",
+              "RelativeToolTip": "ConstructionERPSystem.API\\Data\\DbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:50:36.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ConstructionERPSystem.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem.API\\appsettings.json",
+              "RelativeToolTip": "ConstructionERPSystem.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-10T18:31:29.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:15:53.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "MaterialsController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\MaterialsController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Controllers\\MaterialsController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\MaterialsController.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Controllers\\MaterialsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:32:52.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "VendorsController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\VendorsController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Controllers\\VendorsController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\VendorsController.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Controllers\\VendorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:49:00.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "PurchaseOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\PurchaseOrdersController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Controllers\\PurchaseOrdersController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\PurchaseOrdersController.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Controllers\\PurchaseOrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:59:46.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "ExpensesController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\ExpensesController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Controllers\\ExpensesController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\ExpensesController.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Controllers\\ExpensesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T22:19:06.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "InvoicesController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\InvoicesController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Controllers\\InvoicesController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\InvoicesController.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Controllers\\InvoicesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T22:31:32.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T20:59:50.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "SitesController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\SitesController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Controllers\\SitesController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\SitesController.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Controllers\\SitesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:18:14.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:18:01.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:29:38.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "IRoleAuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Filters\\IRoleAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Filters\\IRoleAuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Filters\\IRoleAuthorizeAttribute.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Filters\\IRoleAuthorizeAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T11:08:05.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Models\\Invoice.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Models\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T22:30:39.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Models\\Expense.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T22:17:52.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "PurchaseOrder.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Models\\PurchaseOrder.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Models\\PurchaseOrder.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Models\\PurchaseOrder.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Models\\PurchaseOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:58:31.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Models\\Vendor.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Models\\Vendor.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Models\\Vendor.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Models\\Vendor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:42:54.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "Material.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Models\\Material.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Models\\Material.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Models\\Material.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Models\\Material.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:31:57.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "AttendanceModel.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Models\\AttendanceModel.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Models\\AttendanceModel.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Models\\AttendanceModel.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Models\\AttendanceModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T21:14:35.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Models\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Models\\TaskModel.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Models\\TaskModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T20:58:53.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ConstructionERPSystem\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\imaan\\source\\repos\\ConstructionERPSystem\\ConstructionERPSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "ConstructionERPSystem\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T20:31:11.597Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

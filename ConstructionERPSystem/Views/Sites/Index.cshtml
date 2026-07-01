@@ -1,0 +1,490 @@
+﻿@model List<ConstructionERPSystem.Models.Site>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sites - Construction ERP</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+            *, *::before, *::after {
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+            }
+
+            body {
+                font-family: 'Inter', sans-serif;
+                background-color: #F5F5F0;
+                min-height: 100vh;
+                padding: 40px 24px;
+            }
+
+            .page-wrap {
+                max-width: 1100px;
+                margin: 0 auto;
+            }
+
+            .page-header {
+                display: flex;
+                align-items: flex-end;
+                justify-content: space-between;
+                margin-bottom: 24px;
+                flex-wrap: wrap;
+                gap: 16px;
+            }
+
+            .page-eyebrow {
+                font-size: 11px;
+                font-weight: 600;
+                color: #F5C518;
+                text-transform: uppercase;
+                letter-spacing: 1.2px;
+                margin-bottom: 6px;
+            }
+
+            .page-title {
+                font-size: 26px;
+                font-weight: 700;
+                color: #111111;
+                letter-spacing: -0.5px;
+                margin-bottom: 2px;
+            }
+
+            .page-subtitle {
+                font-size: 14px;
+                color: #888888;
+            }
+
+            .btn-add {
+                display: inline-flex;
+                align-items: center;
+                gap: 8px;
+                height: 44px;
+                padding: 0 20px;
+                background: #111111;
+                color: #FFFFFF;
+                border: none;
+                border-radius: 10px;
+                font-family: 'Inter', sans-serif;
+                font-size: 14px;
+                font-weight: 600;
+                text-decoration: none;
+                white-space: nowrap;
+                transition: background 0.15s, transform 0.1s;
+            }
+
+                .btn-add:hover {
+                    background: #2a2a2a;
+                    color: #FFFFFF;
+                }
+
+                .btn-add:active {
+                    transform: scale(0.99);
+                }
+
+                .btn-add svg {
+                    width: 16px;
+                    height: 16px;
+                    stroke: #F5C518;
+                }
+
+            /* Stats Row Component */
+            .stats-row {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+                gap: 12px;
+                margin-bottom: 24px;
+            }
+
+            .stat-card {
+                background: #FFFFFF;
+                border-radius: 12px;
+                padding: 16px 20px;
+                border: 1px solid #E5E5E0;
+            }
+
+            .stat-card-label {
+                font-size: 11px;
+                font-weight: 600;
+                color: #BBBBBB;
+                text-transform: uppercase;
+                letter-spacing: 0.8px;
+                margin-bottom: 6px;
+            }
+
+            .stat-card-value {
+                font-size: 24px;
+                font-weight: 700;
+                color: #111111;
+                letter-spacing: -0.5px;
+            }
+
+            /* Table Grid Surface */
+            .table-card {
+                background: #FFFFFF;
+                border-radius: 16px;
+                box-shadow: 0 4px 24px rgba(0,0,0,0.06);
+                overflow: hidden;
+            }
+
+            .table-toolbar {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                padding: 18px 24px;
+                border-bottom: 1px solid #E5E5E0;
+                gap: 12px;
+                flex-wrap: wrap;
+            }
+
+            .toolbar-title {
+                font-size: 14px;
+                font-weight: 600;
+                color: #111111;
+            }
+
+            .search-wrap {
+                position: relative;
+            }
+
+                .search-wrap svg {
+                    position: absolute;
+                    left: 12px;
+                    top: 50%;
+                    transform: translateY(-50%);
+                    width: 15px;
+                    height: 15px;
+                    stroke: #BBBBBB;
+                }
+
+            .search-input {
+                height: 36px;
+                padding: 0 14px 0 36px;
+                border: 1.5px solid #E5E5E0;
+                border-radius: 8px;
+                font-family: 'Inter', sans-serif;
+                font-size: 13px;
+                color: #111111;
+                background: #FAFAF8;
+                outline: none;
+                width: 220px;
+                transition: border-color 0.15s;
+            }
+
+                .search-input:focus {
+                    border-color: #F5C518;
+                    box-shadow: 0 0 0 3px rgba(245,197,24,0.12);
+                }
+
+                .search-input::placeholder {
+                    color: #BBBBBB;
+                }
+
+            table {
+                width: 100%;
+                border-collapse: collapse;
+            }
+
+            thead tr {
+                background: #F5F5F0;
+                border-bottom: 1px solid #E5E5E0;
+            }
+
+            thead th {
+                padding: 12px 20px;
+                font-size: 11px;
+                font-weight: 600;
+                color: #888888;
+                text-transform: uppercase;
+                letter-spacing: 0.8px;
+                text-align: left;
+                white-space: nowrap;
+            }
+
+            tbody tr {
+                border-bottom: 1px solid #F0F0EC;
+                transition: background 0.1s;
+                vertical-align: middle;
+            }
+
+                tbody tr:last-child {
+                    border-bottom: none;
+                }
+
+                tbody tr:hover {
+                    background: #FAFAF8;
+                }
+
+            tbody td {
+                padding: 14px 20px;
+                font-size: 14px;
+                color: #111111;
+            }
+
+            .site-cell {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+            }
+
+            .site-avatar {
+                width: 36px;
+                height: 36px;
+                background: #111111;
+                border-radius: 8px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                font-size: 14px;
+                font-weight: 700;
+                color: #F5C518;
+                flex-shrink: 0;
+            }
+
+            .site-designation {
+                font-weight: 600;
+                color: #111111;
+            }
+
+            .text-muted-cell {
+                color: #888888;
+                font-size: 13px;
+            }
+
+            .actions-cell {
+                display: flex;
+                gap: 8px;
+                align-items: center;
+            }
+
+            .btn-details, .btn-edit, .btn-delete {
+                height: 32px;
+                padding: 0 14px;
+                border-radius: 7px;
+                font-family: 'Inter', sans-serif;
+                font-size: 12px;
+                font-weight: 600;
+                text-decoration: none;
+                display: inline-flex;
+                align-items: center;
+                transition: opacity 0.15s, transform 0.1s;
+                border: none;
+                cursor: pointer;
+            }
+
+            .btn-details {
+                background: #F5F5F0;
+                color: #444444;
+                border: 1px solid #E5E5E0;
+            }
+
+                .btn-details:hover {
+                    background: #EBEBEB;
+                    color: #111111;
+                }
+
+            .btn-edit {
+                background: #FFF8E1;
+                color: #B8860B;
+                border: 1px solid #F5C518;
+            }
+
+                .btn-edit:hover {
+                    background: #F5C518;
+                    color: #111111;
+                }
+
+            .btn-delete {
+                background: #FFF3F3;
+                color: #B71C1C;
+                border: 1px solid #FFCDD2;
+            }
+
+                .btn-delete:hover {
+                    background: #FFCDD2;
+                    color: #B71C1C;
+                }
+
+                .btn-details:active, .btn-edit:active, .btn-delete:active {
+                    transform: scale(0.97);
+                }
+
+            .empty-state {
+                text-align: center;
+                padding: 60px 24px;
+            }
+
+            .empty-icon {
+                width: 52px;
+                height: 52px;
+                background: #F5F5F0;
+                border-radius: 12px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin: 0 auto 16px;
+            }
+
+                .empty-icon svg {
+                    width: 24px;
+                    height: 24px;
+                    stroke: #BBBBBB;
+                }
+
+            .empty-title {
+                font-size: 15px;
+                font-weight: 600;
+                color: #111111;
+                margin-bottom: 6px;
+            }
+
+            .empty-sub {
+                font-size: 13px;
+                color: #888888;
+            }
+
+            @@media (max-width: 768px) {
+                thead th:nth-child(3), tbody td:nth-child(3) {
+                    display: none;
+                }
+            }
+
+            @@media (max-width: 580px) {
+                body {
+                    padding: 24px 12px;
+                }
+
+                .search-input {
+                    width: 150px;
+                }
+            }
+    </style>
+</head>
+<body>
+
+    <div class="page-wrap">
+
+        <!-- Top Header Control Bar -->
+        <div class="page-header">
+            <div>
+                <p class="page-eyebrow">Logistics</p>
+                <h1 class="page-title">Physical Sites</h1>
+                <p class="page-subtitle">Track operational site locations, physical coordinates, and contextual assignments.</p>
+            </div>
+            <a href="/Sites/Create" class="btn-add">
+                <svg viewBox="0 0 24 24" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="12" y1="5" x2="12" y2="19" />
+                    <line x1="5" y1="12" x2="19" y2="12" />
+                </svg>
+                Add Site
+            </a>
+        </div>
+
+        <!-- Metric Computations Row Blocks -->
+        @{
+            int totalSites = Model.Count;
+            int distinctProjects = Model.Select(s => s.ProjectId).Distinct().Count();
+        }
+        <div class="stats-row">
+            <div class="stat-card">
+                <div class="stat-card-label">Managed Workspaces</div>
+                <div class="stat-card-value">@totalSites</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-card-label">Project Clusters Map</div>
+                <div class="stat-card-value" style="color: #B8860B;">@distinctProjects</div>
+            </div>
+        </div>
+
+        <!-- Master Data Block Grid Surface -->
+        <div class="table-card">
+
+            <div class="table-toolbar">
+                <span class="toolbar-title">Operational Workspace Ledger</span>
+                <div class="search-wrap">
+                    <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="11" cy="11" r="8" />
+                        <line x1="21" y1="21" x2="16.65" y2="16.65" />
+                    </svg>
+                    <input type="text" class="search-input" id="siteSearchInput" placeholder="Search sites..." />
+                </div>
+            </div>
+
+            @if (!Model.Any())
+            {
+                <div class="empty-state">
+                    <div class="empty-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                            <circle cx="12" cy="10" r="3"></circle>
+                        </svg>
+                    </div>
+                    <div class="empty-title">No location layouts found</div>
+                    <div class="empty-sub">Click "Add Site" to plot an operational workspace track.</div>
+                </div>
+            }
+            else
+            {
+                <table id="siteTable">
+                    <thead>
+                        <tr>
+                            <th>Site Name</th>
+                            <th>Project</th>
+                            <th>Location</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var site in Model)
+                        {
+                            <tr>
+                                <td>
+                                    <div class="site-cell">
+                                        <div class="site-avatar">@(string.IsNullOrEmpty(site.SiteName) ? "S" : site.SiteName.Substring(0, 1).ToUpper())</div>
+                                        <span class="site-designation">@site.SiteName</span>
+                                    </div>
+                                </td>
+                                <td>
+                                    <span class="text-muted-cell" style="font-weight: 500; color: #111111;">
+                                        @(string.IsNullOrEmpty(site.ProjectName) ? "—" : site.ProjectName)
+                                    </span>
+                                </td>
+                                <td>
+                                    <span class="text-muted-cell">@(string.IsNullOrEmpty(site.Location) ? "No spatial log coordinates attached." : site.Location)</span>
+                                </td>
+                                <td>
+                                    <div class="actions-cell">
+                                        <a href="/Sites/Details/@site.SiteId" class="btn-details">Details</a>
+                                        <a href="/Sites/Edit/@site.SiteId" class="btn-edit">Edit</a>
+                                        <a href="/Sites/Delete/@site.SiteId"
+                                           class="btn-delete"
+                                           onclick="return confirm('Are you sure you want to permanently delete this operational site workspace location structure from the ERP system?');">
+                                            Delete
+                                        </a>
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+
+        </div>
+    </div>
+
+    <!-- Live Client Filter Script -->
+    <script>
+            const siteSearchInput = document.getElementById('siteSearchInput');
+            if (siteSearchInput) {
+                siteSearchInput.addEventListener('input', function () {
+                    const query = this.value.toLowerCase();
+                    document.querySelectorAll('#siteTable tbody tr').forEach(row => {
+                        row.style.display = row.textContent.toLowerCase().includes(query) ? '' : 'none';
+                    });
+                });
+            }
+    </script>
+
+</body>
+</html>

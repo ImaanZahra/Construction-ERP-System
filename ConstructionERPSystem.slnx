@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConstructionERPSystem.API/ConstructionERPSystem.API.csproj" Id="c6493cb3-6dfa-4b51-adce-030d2ebb55c1" />
+  <Project Path="ConstructionERPSystem/ConstructionERPSystem.csproj" />
+</Solution>

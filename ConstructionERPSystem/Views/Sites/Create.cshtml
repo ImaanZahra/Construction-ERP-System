@@ -1,0 +1,266 @@
+﻿@model ConstructionERPSystem.Models.Site
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Site - Construction ERP</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+            *, *::before, *::after {
+                box-sizing: border-box;
+                margin: 0;
+                padding: 0;
+            }
+
+            body {
+                font-family: 'Inter', sans-serif;
+                background-color: #F5F5F0;
+                min-height: 100vh;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                padding: 40px 16px;
+            }
+
+            .page-wrap {
+                width: 100%;
+                max-width: 580px;
+            }
+
+            .page-header {
+                margin-bottom: 24px;
+            }
+
+            .page-eyebrow {
+                font-size: 11px;
+                font-weight: 600;
+                color: #F5C518;
+                text-transform: uppercase;
+                letter-spacing: 1.2px;
+                margin-bottom: 6px;
+            }
+
+            .page-title {
+                font-size: 26px;
+                font-weight: 700;
+                color: #111111;
+                letter-spacing: -0.5px;
+            }
+
+            .page-subtitle {
+                font-size: 14px;
+                color: #888888;
+                margin-top: 4px;
+            }
+
+            .card {
+                background: #FFFFFF;
+                border-radius: 16px;
+                box-shadow: 0 8px 40px rgba(0,0,0,0.08);
+                padding: 36px 40px;
+            }
+
+            .section-divider {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+                margin-bottom: 24px;
+            }
+
+            .section-label {
+                font-size: 11px;
+                font-weight: 600;
+                color: #BBBBBB;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                white-space: nowrap;
+            }
+
+            .section-line {
+                flex: 1;
+                height: 1px;
+                background: #E5E5E0;
+            }
+
+            .field-group {
+                margin-bottom: 20px;
+            }
+
+            .field-label {
+                display: block;
+                font-size: 13px;
+                font-weight: 500;
+                color: #444444;
+                margin-bottom: 8px;
+            }
+
+                .field-label span {
+                    color: #F5C518;
+                    margin-left: 2px;
+                }
+
+            .field-input {
+                width: 100%;
+                height: 46px;
+                padding: 0 16px;
+                border: 1.5px solid #E5E5E0;
+                border-radius: 10px;
+                font-family: 'Inter', sans-serif;
+                font-size: 14px;
+                color: #111111;
+                background: #FAFAF8;
+                outline: none;
+                transition: border-color 0.15s, background 0.15s;
+                appearance: none;
+                -webkit-appearance: none;
+                -moz-appearance: none;
+            }
+
+            select.field-input {
+                background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%23888888' stroke-width='2'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='M19 9l-7 7-7-7'/%3E%3C/svg%3E");
+                background-repeat: no-repeat;
+                background-position: right 16px center;
+                background-size: 14px;
+                padding-right: 40px;
+            }
+
+            .field-input:focus {
+                border-color: #F5C518;
+                background: #FFFFFF;
+                box-shadow: 0 0 0 4px rgba(245, 197, 24, 0.12);
+            }
+
+            .field-input::placeholder {
+                color: #BBBBBB;
+            }
+
+            textarea.field-input {
+                height: 100px;
+                padding: 12px 16px;
+                resize: vertical;
+            }
+
+            .form-actions {
+                display: flex;
+                gap: 12px;
+                margin-top: 32px;
+                padding-top: 24px;
+                border-top: 1px solid #E5E5E0;
+            }
+
+            .btn-save {
+                flex: 1;
+                height: 48px;
+                background: #111111;
+                color: #FFFFFF;
+                border: none;
+                border-radius: 10px;
+                font-family: 'Inter', sans-serif;
+                font-size: 15px;
+                font-weight: 600;
+                cursor: pointer;
+                letter-spacing: -0.2px;
+                transition: background 0.15s, transform 0.1s;
+            }
+
+                .btn-save:hover {
+                    background: #2a2a2a;
+                }
+
+                .btn-save:active {
+                    transform: scale(0.99);
+                }
+
+            .btn-back {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                height: 48px;
+                padding: 0 24px;
+                background: #FFFFFF;
+                color: #444444;
+                border: 1.5px solid #E5E5E0;
+                border-radius: 10px;
+                font-family: 'Inter', sans-serif;
+                font-size: 15px;
+                font-weight: 500;
+                text-decoration: none;
+                transition: border-color 0.15s, color 0.15s;
+                white-space: nowrap;
+            }
+
+                .btn-back:hover {
+                    border-color: #111111;
+                    color: #111111;
+                }
+
+            @@media (max-width: 560px) {
+                .card {
+                    padding: 28px 24px;
+                }
+
+                .form-actions {
+                    flex-direction: column;
+                }
+
+                .btn-back {
+                    text-align: center;
+                }
+            }
+    </style>
+</head>
+<body>
+
+    <div class="page-wrap">
+
+        <div class="page-header">
+            <p class="page-eyebrow">Logistics</p>
+            <h1 class="page-title">Add Physical Site</h1>
+            <p class="page-subtitle">Map an active operational workspace footprint onto a project profile.</p>
+        </div>
+
+        <div class="card">
+            <form method="post">
+
+                <!-- Section 1: Context Mapping -->
+                <div class="section-divider">
+                    <span class="section-label">Context Mapping</span>
+                    <div class="section-line"></div>
+                </div>
+
+                <div class="field-group">
+                    <label class="field-label" for="ProjectId">Parent Project Alignment <span>*</span></label>
+                    <select asp-for="ProjectId" id="ProjectId" asp-items="ViewBag.Projects" class="field-input" required>
+                        <option value="">-- Select Project --</option>
+                    </select>
+                </div>
+
+                <!-- Section 2: Site Identification -->
+                <div class="section-divider" style="margin-top: 8px;">
+                    <span class="section-label">Site Footprint</span>
+                    <div class="section-line"></div>
+                </div>
+
+                <div class="field-group">
+                    <label class="field-label" for="SiteName">Site Designation Name <span>*</span></label>
+                    <input asp-for="SiteName" id="SiteName" class="field-input" placeholder="e.g. Block C Substation Surface" required />
+                </div>
+
+                <div class="field-group">
+                    <label class="field-label" for="Location">Geographical Location Address</label>
+                    <textarea asp-for="Location" id="Location" class="field-input" placeholder="Enter physical addresses, coordinate strings, or layout bounds..."></textarea>
+                </div>
+
+                <!-- Control Forms Actions Layout -->
+                <div class="form-actions">
+                    <a href="/Sites" class="btn-back">← Back</a>
+                    <button type="submit" class="btn-save">Save Site Track →</button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+
+</body>
+</html>
